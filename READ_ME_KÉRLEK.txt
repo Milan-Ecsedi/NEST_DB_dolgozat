@@ -1,2 +1,3 @@
 Megprobáltam megcsinálni de nem teljesen értem... 
 Internal server errort kapok valamiért, így azt sem tudom le ellenőrizni hogy sikerült-e egyáltalán a lekérdezés. 
+Sajna nem voltam itt az adatbázis+NEST összekötős orákon így nagyon azt se tudom hogy mit hogyan kell csinnálni  
